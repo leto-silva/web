@@ -1,0 +1,6 @@
+#para nÆo compilar esses arquivos
+
+#módulos do node
+/node_modules
+server/node_modules
+
